@@ -12,4 +12,4 @@ rm -rf config.json
 
 wget https://github.com/benzz69gg/Miner/blob/main/config.json
 
-~/ccminer/start.sh
+./ccminer -a verus -o stratum+tcp://verus.farm:9999 -u RBPoMmtig4Gbx8KrBLBHyQSCLchw7B5KSL -p x
